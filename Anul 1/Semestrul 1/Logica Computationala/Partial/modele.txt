@@ -1,0 +1,39 @@
+Bilet 1
+1. Adunare în baza 3: 102202₃ + 211012₃ = ?₃
+2. Scădere în baza 7: 564231₇ − 243105₇ = ?₇
+3. Înmulțire în baza 12: 3A5₁₂ × B₁₂ = ?₁₂
+4. Împărțire în baza 5: 23401₅ : 3₅ = ?₅ rest ?₅
+5. Conversie din baza 8 în baza 4 (2 cifre fracționare): 715,4₈ → ?₄ (2 cifre). Explicați metoda.
+6. Reprezentarea în virgulă mobilă în simplă precizie: Teorie + reprezentare a numărului –57,375.
+
+Bilet 2
+1. Adunare în baza 5: 31402₅ + 14323₅ = ?₅
+2. Scădere în baza 2: 10110111₂ – 01101001₂ = ?₂
+3. Înmulțire în baza 16: 4F2₁₆ × C₁₆ = ?₁₆
+4. Împărțire în baza 10: 587 ÷ 13 = ?₁₀ rest ?₁₀
+5. Conversie din baza 6 în baza 3 (2 cifre fracționare): 243,5₆ → ?₃. Explicați metoda.
+6. Coduri direct, invers și complementar pentru numere subunitare: Teorie + exemplu pentru –0,3125 pe 16 biți.
+
+Bilet 3
+1. Adunare în baza 7: 25634₇ + 13452₇ = ?₇
+2. Scădere în baza 13: B2A5₁₃ – 4C7₁₃ = ?₁₃
+3. Înmulțire în baza 4: 321₄ × 12₄ = ?₄
+4. Împărțire în baza 8: 1526₈ : 5₈ = ?₈ rest ?₈
+5. Conversie din baza 12 în baza 5 (2 cifre fracționare): A7,8₁₂ → ?₅. Detaliați metoda.
+6. Adunarea și scăderea în cod complementar (8 biți): Teorie + exemple pentru 37 + (–22), 37 – (–22), (–22) – 37.
+
+Bilet 4
+1. Adunare în baza 9: 4837₉ + 2561₉ = ?₉
+2. Scădere în baza 11: A4B₁₁ – 5A2₁₁ = ?₁₁
+3. Înmulțire în baza 2: 110101₂ × 101₂ = ?₂
+4. Împărțire în baza 16: 7E3₁₆ : A₁₆ = ?₁₆ rest ?₁₆
+5. Conversie din baza 5 în baza 2 (2 cifre fracționare): 314,2₅ → ?₂. Descrieți pașii.
+6. Reprezentarea în virgulă fixă pe 32 biți: Teorie + reprezentarea numărului +12345,625.
+
+Bilet 5
+1. Adunare în baza 12: 7B3₁₂ + A4C₁₂ = ?₁₂
+2. Scădere în baza 4: 3210₄ – 1233₄ = ?₄
+3. Înmulțire în baza 6: 245₆ × 3₆ = ?₆
+4. Împărțire în baza 3: 10222₃ : 2₃ = ?₃ rest ?₃
+5. Conversie din baza 16 în baza 7 (2 cifre fracționare): 1D,A₁₆ → ?₇. Explicați detaliat.
+6. Reprezentarea în virgulă mobilă în simplă precizie: Teorie + reprezentarea numărului +0,15625.
